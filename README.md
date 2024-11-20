@@ -3,7 +3,7 @@
  # Name: Piritharaman R
  # Reg no: 212223230148
  ## AIM
-       To Install Virtualbox / VMware Workstation with different flavours of linux.
+    To Install Virtualbox / VMware Workstation with different flavours of linux.
 ## PROBLEM STATEMENT
     Explain about the Experiment.
 
