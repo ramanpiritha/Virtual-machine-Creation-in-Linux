@@ -5,8 +5,8 @@
  ## AIM
     To Install Virtualbox / VMware Workstation with different flavours of linux.
 ## PROBLEM STATEMENT
-    Explain about the Experiment.
-
+    The aim of this expriment is to Create a virtual machine (VM) in Linux to run a environment for testing and development purposes.
+    
 ## ALGORITHM
 Step 1:Open VirtualBox 
 Step 2: Go to File -> New to create a new virtual machine. 
